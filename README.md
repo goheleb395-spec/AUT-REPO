@@ -78,4 +78,3 @@ pytest selenium_python/tests/test_board.py
 ```
 
 The configured pytest options create a self-contained HTML report at `reports/report.html`. Failed UI tests save screenshots under `screenshots/`. Both locations, along with `logs/`, are local generated output and are excluded from Git.
-
