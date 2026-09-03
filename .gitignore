@@ -36,6 +36,7 @@ screenshots/*
 logs/*
 !logs/.gitkeep
 *.log
+*.zip
 
 # Browser and test-runner artifacts
 playwright-report/
